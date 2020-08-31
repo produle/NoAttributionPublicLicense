@@ -1,0 +1,9 @@
+Copyleft <YEAR> - <Anonymous>
+
+This license allows any person to obtain a copy of this work without any restrictions that includes but not limited to copy, clone, modify, remix, adapt, inspire, derive , publish, distribute, sell and/or sub-license as long the following conditions are met:
+
+* Do not attribute the original author
+* Do not post any links to the original source
+* Do not include the original author's NAPL in your copy or software
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, LEGAL COMPLAINT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THIS WORK OR THE USE OR OTHER DEALINGS RELATED TO THIS WORK.
