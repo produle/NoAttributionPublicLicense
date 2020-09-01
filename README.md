@@ -22,16 +22,20 @@ Like any other license, include the LICENSE.txt file as part of your creative bu
 ## FAQ about the license
 
 **Can the end-user sell the freely downloaded work?**
+
 Yes. With NAPL the end-user becomes the new absolute owner of their copy of work.
 
 **Can the end-user re-license the copied work using a different license?**
+
 Yes. NAPL allows the end-user to use a different license to share their copy.
 
 **Can I attribute the original author as a credit or for courtesy?**
+
 Preferably not, the original author used NAPL so there is no attribution and would like to be anonymous.
 However, you can state that your work is a copy from another entity without explicitly stating who is it.
 
 **What kind of works can be licensed with NAPL?**
+
 Although there are no stated restrictions, NAPL was written for sharing creative works like icons, photos, vectors, videos, animations...
 
 
